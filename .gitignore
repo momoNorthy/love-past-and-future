@@ -1,0 +1,38 @@
+#library file
+*.dll
+*.lib
+*.so
+*.a
+*.dylib
+#my demos
+*.demo
+*.m3
+*.m3l
+*.m6
+#bullseye script
+*.bs
+*.bsc
+*.bbc
+*.rob
+#vs demo
+*.vcxproj
+*.user
+.vs
+*.filters
+Debug
+#excuteable
+*.log
+*.out
+*.app
+#other
+*.okm
+*.lookme
+#my file
+*.all
+*.all2
+#scratch file
+*.sb
+*.sb2
+*.sb3
+#
+p1
